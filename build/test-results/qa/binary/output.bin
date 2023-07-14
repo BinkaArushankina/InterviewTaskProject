@@ -1,0 +1,20 @@
+15:30:16.112 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: (//a[.='Elektronik'])[1]
+^15:30:16.209 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (238, 118)
+Œ15:30:18.689 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+^15:30:18.850 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 643)
+Œ15:30:21.891 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+^15:30:22.169 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 657)
+„15:30:24.923 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .s-item:nth-child(2) h3
+_15:30:25.199 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (480, 2647)
+PAPPLE iPhone 14 - 128GB - SCHWARZ - MITTERNACHT - NEU OVP - differenzbesteuert
+i15:30:25.234 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+]15:30:25.303 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+i15:30:25.523 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+]15:30:25.577 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+i15:30:25.630 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+]15:30:25.692 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+j15:30:25.994 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-btn
+^15:30:26.064 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (1010, 47)
+„15:30:29.369 [Test worker] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: //ul/li/div/div[2]/a/div/span
+^15:30:29.677 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (509, 242)
+SApple iPhone 8 64GB Schwarz Smartphone IOS Ohne Simlock Frei FÃ¼r Alle Simkarten?

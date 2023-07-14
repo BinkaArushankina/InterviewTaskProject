@@ -1,0 +1,27 @@
+1381 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+4934 [main] INFO  com.ebay.fw.AppManager -- Tests start in Chrome Browser
+8335 [main] INFO  com.ebay.fw.AppManager -- Current url is https://www.ebay.de/
+8831 [main] INFO  com.ebay.tests.TestBase -- Start testsearchItemwith data: []
+8835 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: (//a[.='Elektronik'])[1]
+8931 [main] INFO  com.ebay.fw.MyListener -- Location of element is (238, 118)
+10741 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+10820 [main] INFO  com.ebay.fw.MyListener -- Location of element is (244, 643)
+13815 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+14060 [main] INFO  com.ebay.fw.MyListener -- Location of element is (244, 657)
+16576 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .s-item:nth-child(2) h3
+16798 [main] INFO  com.ebay.fw.MyListener -- Location of element is (480, 2647)
+16828 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+16879 [main] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+17084 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+17175 [main] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+17219 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+17259 [main] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+17478 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-btn
+17548 [main] INFO  com.ebay.fw.MyListener -- Location of element is (1010, 47)
+20727 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: //ul/li/div/div[2]/a/div/span
+21253 [main] INFO  com.ebay.fw.MyListener -- Location of element is (509, 242)
+21304 [main] ERROR com.ebay.tests.TestBase -- FAILED: searchItem
+21304 [main] INFO  com.ebay.tests.TestBase -- Stop test
+21304 [main] INFO  com.ebay.tests.TestBase -- ========================================================

@@ -1,0 +1,23 @@
+1164 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+4744 [main] INFO  com.ebay.fw.AppManager -- Tests start in Chrome Browser
+8339 [main] INFO  com.ebay.fw.AppManager -- Current url is https://www.ebay.de/
+8865 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: (//a[.='Elektronik'])[1]
+9073 [main] INFO  com.ebay.fw.MyListener -- Location of element is (238, 118)
+10742 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+10824 [main] INFO  com.ebay.fw.MyListener -- Location of element is (244, 643)
+13826 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .b-visualnav__tile:nth-child(1)
+14065 [main] INFO  com.ebay.fw.MyListener -- Location of element is (244, 657)
+16778 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.cssSelector: .s-item:nth-child(2) h3
+17057 [main] INFO  com.ebay.fw.MyListener -- Location of element is (480, 2647)
+17081 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+17139 [main] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+17327 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+17389 [main] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+17439 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-ac
+17485 [main] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+17694 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.id: gh-btn
+17749 [main] INFO  com.ebay.fw.MyListener -- Location of element is (1010, 47)
+21121 [main] INFO  com.ebay.fw.MyListener -- Before method find element ---> By.xpath: //ul/li/div/div[2]/a/div/span
+21533 [main] INFO  com.ebay.fw.MyListener -- Location of element is (509, 242)
